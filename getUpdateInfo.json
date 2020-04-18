@@ -2,8 +2,8 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 20,
-		"version": "0.2.0",
+		"versionCode": 31,
+		"version": "0.3.1",
 		"zhDesc": "更新0.20版本提示！官网：www.whalerun.net有非谷歌更新链接！未来几天将开启更新，望见谅！",
 		"enDesc": "1. The official launch!add：whalerun.net ",
 		"type": 1,
